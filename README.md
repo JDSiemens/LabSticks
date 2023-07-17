@@ -4,7 +4,7 @@ This project started from the need for a very specific input controller for lab 
 
 A Psychology research study at the University of Manitoba was looking for a replacement for the currently used keyboard/mouse, which could facilitate all the inputs their testing software required while providing a number of additional QoL features.
 
-![Controller Overview](images/1.jpeg)
+![Controller Overview](images/1.jpg)
 
 The image above shows a CAD rendering of the controller, with the casing made transparent to show the inner workings.
 
@@ -27,7 +27,7 @@ The keymaps required are as follows:
 
 The idea was for this to be built using easily accessible components, and the widely supported GMK firmware to ensure continued support. I currently have all the CAD work done for the PCB and the enclosure of the controller itself. The design was loosely based on the dimensions of a classic gaming controller. 
 
-![Circuit Trace Locations](images/2.jpeg)
+![Circuit Trace Locations](images/2.jpg)
 
 Above is a rendering of the circuit trace locations.
 
@@ -39,7 +39,7 @@ Here are the next steps for this project:
 - Design and build the disable controller
 - Source appropriate 6-strand wiring (USB + 2 wires for disable control)
 
-![Exploded View of Controller](images/3.jpeg)
+![Exploded View of Controller](images/3.jpg)
 
 The image above is an exploded view of the controller, with opaque casing. 
 
