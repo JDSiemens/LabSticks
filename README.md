@@ -10,7 +10,7 @@ LabSticks leverages the flexibility of GMK firmware and easily accessible compon
 
 ## Design
 
-The controller, designed with the dimensions of a classic gaming controller in mind, houses the necessary components to facilitate inputs for testing software.
+The controller, designed with the dimensions of a classic gaming controller in mind, houses the necessary components to facilitate inputs for testing software. For more detail check  [CAD Files](https://github.com/JDSiemens/LabSticks/tree/main/CAD%20Files).
 
 ![Controller Overview](images/1.jpg)
 
