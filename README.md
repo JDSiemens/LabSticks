@@ -1,12 +1,12 @@
 # LabSticks
 
-This project started from the need for a very specific input controller for lab experiments.
+The LabSticks project was born out of a need to address a specific problem within the realm of psychological research. Young participants in a local university study were interacting with the traditional keyboard and mouse setup in ways that led to unwanted inputs and disruptions. These interruptions didn't just disrupt the researcher's work; they also jeopardized the accuracy of the study results.
 
-A Psychology research study at the local University was looking for a replacement for the currently used keyboard/mouse, which could facilitate all the inputs their testing software required while providing a number of additional QoL features.
+Thus, the idea for LabSticks was conceived—a custom controller designed with the familiarity of classic "sticks", our affectionate term for gaming controllers. The controller's design, which is not only more intuitive for the young participants but also includes an essential disable feature for use between testing rounds, provides researchers the assurance of undisturbed work. It's a tool that bridges the gap between ergonomics and functionality.
 
 ![Initial Sketch](images/4.jpg)
 
-The idea was for this to be built using easily accessible components, and the widely supported GMK firmware to ensure continued support. 
+LabSticks leverages the flexibility of GMK firmware and easily accessible components, with the design centered around a custom printed circuit board (PCB) and a 3D printed ergonomic enclosure. 
 
 ## Design
 
@@ -74,3 +74,5 @@ We welcome contributions to this project. Before contributing, please read our [
 ## License
 
 This project is licensed under MIT Licence. See [LICENSE](LICENSE) for details.
+
+LabSticks isn't just about designing a controller; it's about revolutionizing the way research is conducted. By prioritizing efficiency and data accuracy, LabSticks stands as a future-proof, cost-effective solution for research labs seeking specialized input devices.
