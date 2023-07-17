@@ -35,4 +35,4 @@ We welcome contributions to this project. Before contributing, please read our [
 
 ## License
 
-This project is licensed under [insert license type]. See [LICENSE](link-to-license) for details.
+This project is licensed under MIT Licence. See [LICENSE](LICENSE) for details.
