@@ -14,7 +14,7 @@ The controller, designed with the dimensions of a classic gaming controller in m
 
 ![Controller Overview](images/1.jpg)
 
-The PCB, custom designed and printed, houses the ATmega32u4 microcontroller and the switches.
+The PCB, custom designed and printed, houses the ATmega32u4 microcontroller and the switches. [Also available in CAD Files](https://github.com/JDSiemens/LabSticks/tree/main/CAD%20Files).
 
 ![Circuit Trace Locations](images/2.jpg)
 
