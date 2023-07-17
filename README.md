@@ -6,7 +6,7 @@ Thus, the idea for LabSticks was conceived—a custom controller designed with t
 
 ![Initial Sketch](images/4.jpg)
 
-LabSticks leverages the flexibility of GMK firmware and easily accessible components, with the design centered around a custom printed circuit board (PCB) and a 3D printed ergonomic enclosure. 
+LabSticks leverages the flexibility of GMK firmware and easily accessible components, with the design centered around a custom printed circuit board (PCB) and a 3D printed ergonomic enclosure.
 
 ## Design
 
@@ -74,5 +74,3 @@ We welcome contributions to this project. Before contributing, please read our [
 ## License
 
 This project is licensed under MIT Licence. See [LICENSE](LICENSE) for details.
-
-LabSticks isn't just about designing a controller; it's about revolutionizing the way research is conducted. By prioritizing efficiency and data accuracy, LabSticks stands as a future-proof, cost-effective solution for research labs seeking specialized input devices.
