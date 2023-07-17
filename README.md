@@ -2,11 +2,11 @@
 
 This project started from the need for a very specific input controller for lab experiments.
 
+![Initial Sketch](images/4.jpeg)
+
 A Psychology research study at the University of Manitoba was looking for a replacement for the currently used keyboard/mouse, which could facilitate all the inputs their testing software required while providing a number of additional QoL features.
 
 ![Controller Overview](images/1.jpg)
-
-The image above shows a CAD rendering of the controller, with the casing made transparent to show the inner workings.
 
 ## Keymaps
 
@@ -29,8 +29,6 @@ The idea was for this to be built using easily accessible components, and the wi
 
 ![Circuit Trace Locations](images/2.jpg)
 
-Above is a rendering of the circuit trace locations.
-
 ## Upcoming Tasks
 
 Here are the next steps for this project:
@@ -40,8 +38,6 @@ Here are the next steps for this project:
 - Source appropriate 6-strand wiring (USB + 2 wires for disable control)
 
 ![Exploded View of Controller](images/3.jpg)
-
-The image above is an exploded view of the controller, with opaque casing. 
 
 ## Contributing
 
