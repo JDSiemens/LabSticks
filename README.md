@@ -1,6 +1,6 @@
 # LabSticks
 
-The LabSticks project was born out of a need to address a specific problem within the realm of psychological research. Young participants in a local university study were interacting with the traditional keyboard and mouse setup in ways that led to unwanted inputs and disruptions. These interruptions didn't just disrupt the researcher's work; they also jeopardized the accuracy of the study results.
+The LabSticks project was born out of a need to address young participants in a local university study who were interacting with the traditional keyboard and mouse setup in ways that led to unwanted inputs and disruptions. These interruptions didn't just disrupt the researcher's work; they also jeopardized the accuracy of the study results.
 
 Thus, the idea for LabSticks was conceived—a custom controller designed with the familiarity of classic "sticks", our affectionate term for gaming controllers. The controller's design, which is not only more intuitive for the young participants but also includes an essential disable feature for use between testing rounds, provides researchers the assurance of undisturbed work. It's a tool that bridges the gap between ergonomics and functionality.
 
