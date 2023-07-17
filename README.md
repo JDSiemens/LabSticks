@@ -31,7 +31,7 @@ Here are the next steps for this project:
 
 ## Contributing
 
-We welcome contributions to this project. Before contributing, please read our [Contributing Guidelines](link-to-contributing.md).
+We welcome contributions to this project. Before contributing, please read our [Contributing Guidelines](contributing.md).
 
 ## License
 
