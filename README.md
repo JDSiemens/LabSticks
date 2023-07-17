@@ -2,7 +2,7 @@
 
 This project started from the need for a very specific input controller for lab experiments.
 
-![Initial Sketch](images/4.jpeg)
+![Initial Sketch](images/4.jpg)
 
 A Psychology research study at the University of Manitoba was looking for a replacement for the currently used keyboard/mouse, which could facilitate all the inputs their testing software required while providing a number of additional QoL features.
 
