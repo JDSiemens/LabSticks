@@ -1,0 +1,41 @@
+{
+    "keyboard_name": "labsticks",
+    "keyboard": "labsticks",
+    "manufacturer": "JDSiemens",
+    "url": "https://www.github.com/jdsiemens/labsticks/",
+    "maintainer": "jdsiemens",
+    "usb": {
+        "vid": "0xEEEE",
+        "pid": "0x2019",
+        "device_version": "1.0.0"
+    },
+    "width": 8,
+    "height": 1,
+    "keymap": "default",
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"x": 0, "y": 0},
+                {"x": 1, "y": 0},
+                {"x": 2, "y": 0},
+                {"x": 3, "y": 0},
+                {"x": 4, "y": 0},
+                {"x": 5, "y": 0},
+                {"x": 6, "y": 0},
+                {"x": 7, "y": 0}
+            ]
+        }
+    },
+    "layers": [
+        [
+            "KC_KP_8",
+            "KC_KP_6",
+            "KC_KP_2",
+            "KC_KP_4",
+            "KC_MS_BTN1",
+            "KC_MS_BTN2",
+            "KC_ENT",
+            "TG(BLANK_LAYER)"
+        ]
+    ]
+}
