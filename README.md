@@ -42,12 +42,10 @@ The keymaps required are as follows:
 With the CAD work for the PCB and the enclosures completed, the next steps for this project are:
 
 - Design and build the Y splitter section of the cabling. (printed in TPU)
-- Design and build the disable controller
-- Source appropriate 6-strand wiring (USB + 2 wires for disable control)
 
 ## GMK Firmware
 
-This section will be updated with the necessary code and instructions once they become available.
+ This controller runs a custom keymap firmware using GMK.  Go to the 'labsticks' folder for all GMK firmware files.
 
 ## Bill of Materials (BOM)
 
