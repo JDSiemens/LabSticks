@@ -6,7 +6,7 @@ Thus, the idea for LabSticks was conceived—a custom controller designed with t
 
 ![Initial Sketch](images/4.jpg)
 
-LabSticks leverages the flexibility of GMK firmware and easily accessible components, with the design centered around a custom printed circuit board (PCB) and a 3D printed ergonomic enclosure.
+LabSticks leverages the flexibility of QMK firmware and easily accessible components, with the design centered around a custom printed circuit board (PCB) and a 3D printed ergonomic enclosure.
 
 ## Design
 
@@ -26,7 +26,7 @@ The casing for the controller is 3D printed, as is the case for the disable togg
 
 The keymaps required are as follows:
 
-| MAP     | GMK Map       | Description                  |
+| MAP     | QMK Map       | Description                  |
 |---------|---------------|------------------------------|
 | UP      | KC_KP_8       | Keypad 8                     |
 | RIGHT   | KC_KP_6       | Keypad 6                     |
@@ -43,7 +43,7 @@ With the CAD work for the PCB and the enclosures completed, the next steps for t
 
 - Design and build the Y splitter section of the cabling. (printed in TPU)
 
-## GMK Firmware
+## QMK Firmware
 
  This controller runs a custom keymap firmware using GMK.  Go to the 'labsticks' folder for all GMK firmware files.
 
