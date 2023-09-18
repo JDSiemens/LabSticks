@@ -31,20 +31,22 @@ The casing for the controller is 3D printed, as is the case for the disable togg
 
 The keymaps required are as follows:
 
-FUNCTION	GMK MAP	PROMICRO PIN
-UP	KC_KP_8	2
-RIGHT	KC_KP_6	3
-DOWN	KC_KP_2	5
-LEFT	KC_KP_4	4
-BLUE BUTTON	KC_MS_BTN1	A1
-ORANGE BUTTON	KC_MS_BTN2	A0
-START	KC_ENT	A2
-DISABLE	TG(BLANK_LAYER)	A3
+|FUNCTION	|GMK MAP	| PROMICRO PIN |
+| UP |	KC_KP_8 |	2 |
+| RIGHT |	KC_KP_6	| 3 |
+| DOWN	| KC_KP_2	| 5 |
+| LEFT	| KC_KP_4	| 4 |
+| BLUE BUTTON	| KC_MS_BTN1	| A1 |
+| ORANGE BUTTON	| KC_MS_BTN2	| A0 |
+| START	| KC_ENT	| A2 |
+| DISABLE	| TG(BLANK_LAYER)	| A3 |
+
+
 ## Final Assembly 
 
 The Y junction was printed in high shore hardness TPU, at 30% infill for a combination of strength, and flexibility.
 
-![Y-Junction in TPU](images/IMG_1818.jpg)
+![Y-Junction in TPU](images/IMG_1818.jpeg)
 
 
 
@@ -52,11 +54,12 @@ The final controller was inlayed with direction arrows, a “star” Start butto
 
 As prescribed by the study itself, BLUE and ORANGE must be used.  As there was no orange button available, a 3D printed replacement was fitted.  (STL available)
 
-![Final Controller - Assembled](images/IMG_1817.jpg)
+![Final Controller - Assembled](images/IMG_1817.jpeg)
 
 # GMK Firmware
 
-Available for  download in this repo.
+This section will be updated with the necessary code and instructions once they become available.
+
 ## Bill of Materials (BOM)
 
 | Quantity | Part | Description |
@@ -78,10 +81,10 @@ Available for  download in this repo.
 ## Final Deliverables
 
 These were the final shows of the controllers w/ their custom cable lengths, button mappings, and button colours.
-![Final Controller - Displaying Cable Lengths (USB 90cm - Controller / Lock 117cm) ](images/IMG_1815.jpg)
+![Final Controller - Displaying Cable Lengths (USB 90cm - Controller / Lock 117cm) ](images/IMG_1815.jpeg)
 
 
-![Final Controller - Ready for Delivery](images/IMG_1819.jpg)
+![Final Controller - Ready for Delivery](images/IMG_1819.jpeg)
 
 ## Contributing
 
