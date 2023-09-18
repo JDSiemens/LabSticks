@@ -1,4 +1,4 @@
-# LabSticks
+# LabSticks [GitHub Project Link]
 
 The LabSticks project was born out of a need to address young participants in a local university study who were interacting with the traditional keyboard and mouse setup in ways that led to unwanted inputs and disruptions. These interruptions didn't just disrupt the researcher's work; they also jeopardized the accuracy of the study results.
 
@@ -6,47 +6,57 @@ Thus, the idea for LabSticks was conceived—a custom controller designed with t
 
 ![Initial Sketch](images/4.jpg)
 
-LabSticks leverages the flexibility of QMK firmware and easily accessible components, with the design centered around a custom printed circuit board (PCB) and a 3D printed ergonomic enclosure.
+
+LabSticks leverages the flexibility of GMK firmware and easily accessible components, with the design centered around a custom printed circuit board (PCB) and a 3D printed ergonomic enclosure.
 
 ## Design
 
-The controller, designed with the dimensions of a classic gaming controller in mind, houses the necessary components to facilitate inputs for testing software. For more detail check  [CAD Files](https://github.com/JDSiemens/LabSticks/tree/main/CAD%20Files).
+The controller, designed with the dimensions of a classic gaming controller in mind, houses the necessary components to facilitate inputs for testing software. For more detail check  [CAD Files](https://github.com/JDSiemens/LabSticks/tree/main/CAD%20Files).
 
 ![Controller Overview](images/1.jpg)
+
+
 
 The PCB, custom designed and printed, houses the ATmega32u4 microcontroller and the switches. [Also available in CAD Files](https://github.com/JDSiemens/LabSticks/tree/main/CAD%20Files).
 
 ![Circuit Trace Locations](images/2.jpg)
 
+
 The casing for the controller is 3D printed, as is the case for the disable toggle controller. The controller features seven buttons, each corresponding to a specific input.
 
 ![Exploded View of Controller](images/3.jpg)
+
 
 ## Keymaps
 
 The keymaps required are as follows:
 
-| MAP     | QMK Map       | Description                  |
-|---------|---------------|------------------------------|
-| UP      | KC_KP_8       | Keypad 8                     |
-| RIGHT   | KC_KP_6       | Keypad 6                     |
-| DOWN    | KC_KP_2       | Keypad 2                     |
-| LEFT    | KC_KP_4       | Keypad 4                     |
-| BLUE    | KC_MS_BTN1    | Mouse Button 1 (Left click)  |
-| ORANGE  | KC_MS_BTN2    | Mouse Button 2 (Right click) |
-| START   | KC_ENT        | Enter (Carriage Return)      |
-| DISABLE | TG(BLANK_LAYER)| Toggle Keypad Disable        |
+FUNCTION	GMK MAP	PROMICRO PIN
+UP	KC_KP_8	2
+RIGHT	KC_KP_6	3
+DOWN	KC_KP_2	5
+LEFT	KC_KP_4	4
+BLUE BUTTON	KC_MS_BTN1	A1
+ORANGE BUTTON	KC_MS_BTN2	A0
+START	KC_ENT	A2
+DISABLE	TG(BLANK_LAYER)	A3
+## Final Assembly 
 
-## Upcoming Tasks
+The Y junction was printed in high shore hardness TPU, at 30% infill for a combination of strength, and flexibility.
 
-With the CAD work for the PCB and the enclosures completed, the next steps for this project are:
+![Y-Junction in TPU](images/IMG_1818.jpg)
 
-- Design and build the Y splitter section of the cabling. (printed in TPU)
 
-## QMK Firmware
 
- This controller runs a custom keymap firmware using GMK.  Go to the 'labsticks' folder for all GMK firmware files.
+The final controller was inlayed with direction arrows, a “star” Start button indicator, and SNES inspired graphic around the “blue” and “orange” buttons.  Final controller was sanded down to 1500grit, and then acetone vapour polished, for a combination of added strength + a tactile feel closer to that of an injection moulded controller.
 
+As prescribed by the study itself, BLUE and ORANGE must be used.  As there was no orange button available, a 3D printed replacement was fitted.  (STL available)
+
+![Final Controller - Assembled](images/IMG_1817.jpg)
+
+# GMK Firmware
+
+Available for  download in this repo.
 ## Bill of Materials (BOM)
 
 | Quantity | Part | Description |
@@ -61,9 +71,17 @@ With the CAD work for the PCB and the enclosures completed, the next steps for t
 | 1 | Zip Tie | Strain relief |
 | 1 | 3D Printed Enclosure | Top and bottom casing for the controller |
 | 1 | 3D Printed Enclosure | Case for the disable toggle controller |
-| 1 | Resin 3D Printed Button  | Orange color is needed |
+| 1 | Resin 3D Printed Button  | Orange color is needed |
 | 4 | M3 Heatset Inserts | For fastening the casing |
 | 4 | M3x12 Flat Top Tapered Screws | For fastening the casing |
+
+## Final Deliverables
+
+These were the final shows of the controllers w/ their custom cable lengths, button mappings, and button colours.
+![Final Controller - Displaying Cable Lengths (USB 90cm - Controller / Lock 117cm) ](images/IMG_1815.jpg)
+
+
+![Final Controller - Ready for Delivery](images/IMG_1819.jpg)
 
 ## Contributing
 
