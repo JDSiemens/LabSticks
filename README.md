@@ -32,6 +32,7 @@ The casing for the controller is 3D printed, as is the case for the disable togg
 The keymaps required are as follows:
 
 |FUNCTION	|GMK MAP	| PROMICRO PIN |
+|---------------|---------------|--------------|
 | UP |	KC_KP_8 |	2 |
 | RIGHT |	KC_KP_6	| 3 |
 | DOWN	| KC_KP_2	| 5 |
