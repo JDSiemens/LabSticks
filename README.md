@@ -59,7 +59,7 @@ As prescribed by the study itself, BLUE and ORANGE must be used.  As there was 
 
 # GMK Firmware
 
-This section will be updated with the necessary code and instructions once they become available.
+[Latest GMK Firmware available here](http)
 
 ## Bill of Materials (BOM)
 
