@@ -59,7 +59,7 @@ As prescribed by the study itself, BLUE and ORANGE must be used.  As there was 
 
 # GMK Firmware
 
-[Latest GMK Firmware available here](http)
+[Latest GMK Firmware available here](https://github.com/JDSiemens/LabSticks/tree/98ac673fcb640c3302baf90015d64262e01fac7c/labsticks)
 
 ## Bill of Materials (BOM)
 
