@@ -1,4 +1,4 @@
-# LabSticks [GitHub Project Link]
+# LabSticks
 
 The LabSticks project was born out of a need to address young participants in a local university study who were interacting with the traditional keyboard and mouse setup in ways that led to unwanted inputs and disruptions. These interruptions didn't just disrupt the researcher's work; they also jeopardized the accuracy of the study results.
 
