@@ -59,7 +59,7 @@ As prescribed by the study itself, BLUE and ORANGE must be used.  As there was 
 
 Polling rate, expressed in Hertz (Hz), refers to the frequency at which a keyboard checks its status and communicates any changes (like a keypress) to the connected computer. A standard value for many keyboards is 125Hz, which implies an update every 8 milliseconds. In contrast, gaming and specialized keyboards sometimes employ higher rates for increased responsiveness.
 
-```define USB_POLLING_INTERVAL_MS 1  // This sets the polling rate to 1000Hz```
+```#define USB_POLLING_INTERVAL_MS 1  // This sets the polling rate to 1000Hz```
 
 ## Labsticks and EEG Data Syncing
 
