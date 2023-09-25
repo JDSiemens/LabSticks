@@ -91,9 +91,9 @@ These were the final shows of the controllers w/ their custom cable lengths, but
 
 Serial numbers have been engraved on the rear shell of each input device. When building your own, please follow the established serial number convention:
 
-4 Digit YEAR
-4 Digit DESCRIPTIVE code
-3 Digit Unique ID
+- 4 Digit YEAR
+- 4 Digit DESCRIPTIVE code
+- 3 Digit Unique ID
 
 | Example Serial Number ID | Description | | | |
 |-------------------------|-------------|--|--|--|
