@@ -101,9 +101,11 @@ Serial numbers have been engraved on the rear shell of each input device. When b
 | Serial # Component:     | "2023" | "B7" | "S1" | "001" |
 | Component Description:  | Mfg Year   | Buttons | Switches | Unique Count ID |
 
+*note* Descriptive code can be ANY alpha numeric descriptive placeholder you wish.
 Please submit any serial numbers to this Git, to have them added to the master registry below
 
 | Ledger |||||
+
 |---------------|------------------|----------------------------|---------------------------|-----------------|
 | Serial # | Count Registered | Description| Git Files  | Registry Date |
 | 2023-B7S1-XXX | 001-005 | SNES Style Research Controller | [Main Link to Hardware CAD files for this LabStick type](https://github.com/JDSiemens/LabSticks/tree/main/CAD%20Files) | 9/2023 |
