@@ -101,7 +101,8 @@ Serial numbers have been engraved on the rear shell of each input device. When b
 | Serial # Component:     | "2023" | "B7" | "S1" | "001" |
 | Component Description:  | Mfg Year   | Buttons | Switches | Unique Count ID |
 
-- Descriptive code can be ANY alpha numeric descriptive placeholder you wish.
+- Descriptive code can be ANY 4 digit alpha numeric descriptive placeholder you wish.
+
 Please submit any serial numbers to this Git, to have them added to the master registry below
 
 | Ledger |||||
