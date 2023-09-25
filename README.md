@@ -49,24 +49,21 @@ The Y junction was printed in high shore hardness TPU, at 30% infill for a combi
 
 ![Y-Junction in TPU](images/IMG_1818.jpeg)
 
+The final controller was inlaid with direction arrows, a “star” Start button indicator, and SNES inspired graphic around the “blue” and “orange” buttons.  The final controller was sanded down to 1500grit, and then acetone vapour polished, for a combination of added strength + a tactile feel closer to that of an injection moulded controller.
+
+As prescribed by the study itself, BLUE and ORANGE must be used.  As there was no orange button available, a 3D-printed replacement was fitted.  (STL available)
+
+![Final Controller - Assembled](images/IMG_1817.jpeg)
 
 # Polling Frequency
 
 Polling rate, expressed in Hertz (Hz), refers to the frequency at which a keyboard checks its status and communicates any changes (like a keypress) to the connected computer. A standard value for many keyboards is 125Hz, which implies an update every 8 milliseconds. In contrast, gaming and specialized keyboards sometimes employ higher rates for increased responsiveness.
-
 
 ```define USB_POLLING_INTERVAL_MS 1  // This sets the polling rate to 1000Hz```
 
 ## Labsticks and EEG Data Syncing
 
 The Labsticks QMK controller project has set this value to 1000Hz, meaning updates every 1 millisecond. This enhancement is specifically for high-precision work, eg. measuring EEG (Electroencephalogram) signals, where data changes can manifest within milliseconds, and timing is crucial. With the inclusion of the polling rate code line, the accuracy of input is heightened, ensuring a robust synchronization with corresponding data points.
-
-
-The final controller was inlaid with direction arrows, a “star” Start button indicator, and SNES inspired graphic around the “blue” and “orange” buttons.  The final controller was sanded down to 1500grit, and then acetone vapour polished, for a combination of added strength + a tactile feel closer to that of an injection moulded controller.
-
-As prescribed by the study itself, BLUE and ORANGE must be used.  As there was no orange button available, a 3D-printed replacement was fitted.  (STL available)
-
-![Final Controller - Assembled](images/IMG_1817.jpeg)
 
 # GMK Firmware
 
