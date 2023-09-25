@@ -63,7 +63,7 @@ Polling rate, expressed in Hertz (Hz), refers to the frequency at which a keyboa
 
 ## Labsticks and EEG Data Syncing
 
-The Labsticks QMK controller project has set this value to 1000Hz, meaning updates every 1 millisecond. This enhancement is specifically for high-precision work, eg. measuring EEG (Electroencephalogram) signals, where data changes can manifest within milliseconds, and timing is crucial. With the inclusion of the polling rate code line, the accuracy of input is heightened, ensuring a robust synchronization with corresponding data points.
+The Labsticks QMK controller project has set this value to 1000Hz, meaning updates every 1 millisecond. This enhancement is specifically for high-precision work, eg. measuring controller inputs in relation to EEG (Electroencephalogram) signals, where data changes can manifest within milliseconds, and timing is crucial. With the inclusion of the polling rate code line, the accuracy of input is heightened, ensuring a robust synchronization with corresponding data points.
 
 # GMK Firmware
 
