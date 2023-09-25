@@ -8,6 +8,8 @@
  #define manufacturer    JDSiemens
  #define keyboard_name         labsticks
 
+#define USB_POLLING_INTERVAL_MS 1  // Setting polling rate to 1000Hz
+
  key matrix size */
 #define MATRIX_ROWS 1
 #define MATRIX_COLS 8
