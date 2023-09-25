@@ -106,7 +106,7 @@ Please submit any serial numbers to this Git, to have them added to the master r
 | Ledger |||||
 |---------------|------------------|----------------------------|---------------------------|-----------------|
 | Serial # | Count Registered | Description| Git Files  | Registry Date |
-| 2023-B7S1-XXX | 001-005 | SNES Style Research Controller | [Main Link to Hardware CAD files for this LabStick type] (https://github.com/JDSiemens/LabSticks/tree/main/CAD%20Files) | 9/2023 |
+| 2023-B7S1-XXX | 001-005 | SNES Style Research Controller | [Main Link to Hardware CAD files for this LabStick type](https://github.com/JDSiemens/LabSticks/tree/main/CAD%20Files) | 9/2023 |
 
 ## Contributing
 
