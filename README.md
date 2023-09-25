@@ -87,6 +87,25 @@ These were the final shows of the controllers w/ their custom cable lengths, but
 
 ![Final Controller - Ready for Delivery](images/IMG_1819.jpeg)
 
+## Serial Number Tracking
+
+Serial numbers have been engraved on the rear shell of each input device. When building your own, please follow the established serial number convention:
+
+4 Digit YEAR
+4 Digit DESCRIPTIVE code
+3 Digit Unique ID
+Example Serial Number ID Description
+Example:	2023-B7S1-001
+Serial # Component:	**"2023"**	**"B7"**	**"S1"**	**"001"**
+Component Description:	Mfg Year	\# Buttons	\# Switches	Unique Count ID
+Please submit any serial numbers to this Git, to have them added to the master registry below
+
+LabSticks Hardware Serial Number Ledger
+Serial #	Count Registered	Description	Git Files	Registry Date
+2023-B7S1-XXX	001 - 005	SNES Style Research Controller	\[Main Link to Hardware CAD files for this LabStick type\](https://github.com/JDSiemens/LabSticks/tree/main/CAD%20Files)	9/2023
+				
+
+
 ## Contributing
 
 We welcome contributions to this project. Before contributing, please read our [Contributing Guidelines](contributing.md).
