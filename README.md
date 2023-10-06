@@ -7,7 +7,7 @@ Thus, the idea for LabSticks was conceived—a custom controller designed with t
 ![Initial Sketch](images/4.jpg)
 
 
-LabSticks leverages the flexibility of GMK firmware and easily accessible components, with the design centered around a custom printed circuit board (PCB) and a 3D printed ergonomic enclosure.
+LabSticks leverages the flexibility of QMK firmware and easily accessible components, with the design centered around a custom printed circuit board (PCB) and a 3D printed ergonomic enclosure.
 
 ## Design
 
@@ -31,7 +31,7 @@ The casing for the controller is 3D printed, as is the case for the disable togg
 
 The keymaps required are as follows:
 
-|FUNCTION	|GMK MAP	| PROMICRO PIN |
+|FUNCTION	|QMK MAP	| PROMICRO PIN |
 |---------------|---------------|--------------|
 | UP |	KC_KP_8 |	2 |
 | RIGHT |	KC_KP_6	| 3 |
@@ -65,9 +65,9 @@ Polling rate, expressed in Hertz (Hz), refers to the frequency at which a keyboa
 
 The Labsticks QMK controller project has set this value to 1000Hz, meaning updates every 1 millisecond. This enhancement is specifically for high-precision work, eg. measuring controller inputs in relation to EEG (Electroencephalogram) signals, where data changes can manifest within milliseconds, and timing is crucial. With the inclusion of the polling rate code line, the accuracy of input is heightened, ensuring a robust synchronization with corresponding data points.
 
-# GMK Firmware
+# QMK Firmware
 
-[Latest GMK Firmware available here](https://github.com/JDSiemens/LabSticks/tree/98ac673fcb640c3302baf90015d64262e01fac7c/labsticks)
+[Latest QMK Firmware available here](https://github.com/JDSiemens/LabSticks/tree/98ac673fcb640c3302baf90015d64262e01fac7c/labsticks)
 
 ## Bill of Materials (BOM)
 
